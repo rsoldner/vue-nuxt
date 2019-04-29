@@ -28,7 +28,14 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   components: {
     AppLogo
-  }
+  },
+  //asyncData ({app}) {
+  //  return {
+  //      apiUrl: app.$env.API_URL
+  //  }
+  //}
+
+
 }
 </script>
 

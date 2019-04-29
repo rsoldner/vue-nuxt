@@ -4,6 +4,7 @@
           <ul>
             <li><nuxt-link to="/">Starting Page</nuxt-link></li>
             <li><nuxt-link to="/recipe">Recipes</nuxt-link></li>
+            <li><nuxt-link to="/env">Env</nuxt-link></li>
           </ul>
         </nav>
     </header>

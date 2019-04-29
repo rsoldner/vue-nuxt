@@ -34,6 +34,13 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  modules: [
+    ['nuxt-env', {
+      keys: [
+        'API_URL'
+      ]
+    }]
+  ]
 }
 
