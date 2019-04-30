@@ -2,9 +2,12 @@
 
 > Nuxt.js project template and worked through example
 
-## Build Setup
+## Docker
 
 Docker image available: https://cloud.docker.com/repository/docker/rsoldner/vue-nuxt/general
+
+
+## Build Setup
 
 ``` bash
 # install dependencies
